@@ -1,0 +1,166 @@
+body{
+	margin: 0px;
+	box-sizing: border-box;
+
+}
+.header{
+	width:1285px;
+	height:70px;
+	background-color: #15154a;
+	position:sticky;
+	
+}
+.blog{
+	font-family:ui-serif;
+	font-size:50px;
+	color:yellow;
+	margin-left:180px ;
+	margin-top:15px;
+}
+.main-manue{
+
+	display: flex;
+	list-style-type: none;
+	color:green;
+	margin-left: 110px;
+	margin-top: 20px;
+	position: sticky;
+	text-decoration: none;
+	display: inline-block;
+}
+a{
+	color: white;
+	margin-left: 30px;
+	text-decoration: none;
+	font-family: sans-serif;
+	margin-top: 20px;
+}
+.fa-search{
+	color:white;
+	font-size: 25px;
+	margin-left: 945px;
+	margin-top: -150px;
+}
+.main{
+    background-color:white;
+    width:1285px;
+    height:500px;
+    display: flex;
+    margin-top: -20px;
+    flex:wrap;
+
+}
+.images{
+	margin-left:155px;
+	display: flex;
+	margin-top: -80px;
+}
+.img{
+	display: flex;
+	width: 300px;
+	height:380px;
+	background-color: white;
+	margin-left: 25px;
+	margin-top: 150px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+}
+.imagebox{
+	margin-left:155px;
+	display: flex;
+	margin-top: -160px;
+
+}
+.img1{
+	height:200px ;
+	width:300px;
+}
+.img2{
+    height:200px;
+    width:300px;
+}
+.img3{
+	 height:200px;
+}
+.img4{
+	height: 200px;
+}
+.img5{
+	height: 200px;
+}
+.img6{
+	height: 200px;
+	width: 300px;
+}
+button{
+    margin-top: 210px;
+	margin-left: -290px;
+	height: 30px;
+	width:120px;
+	color:orange;
+	border-radius: 4px;
+	border-style: solid;
+	background-color: white;
+	border-color: orange;
+}
+.blog1{
+	color:black;
+	margin-top: 240px;
+	margin-left: -77px;
+	font-size: 30px;
+	
+
+}
+.blog4{
+	color:black;
+	margin-top: 260px;
+	margin-left: -77px;
+	font-size: 30px;
+}
+.blog5{
+	color:black;
+	margin-top: 240px;
+	margin-left: -85px;
+	font-size: 30px;
+
+}
+.buttn{
+	 margin-top: 210px;
+	margin-left: -220px;
+	height: 30px;
+	width:100px;
+}
+.footer{
+	height: 100px;
+	width: 1285;
+	margin-bottom: 10px;
+	background-color: #3b4552;
+
+}
+.contact{
+	font-size:25px ;
+	padding-top:10px ;
+
+}
+.contect{
+	display:flex;
+	margin-left: 20px;
+	margin-top: -25px;
+
+}
+.fa-phone{
+	margin-left: 20px;
+	margin-top: 10px;
+
+	
+}
+.fa-envelope{
+	margin-left: 20px;
+	margin-top: 10px;
+	
+	
+}
+.text-body{
+	
+	margin-bottom: -30px;
+	margin-left: 500px;
+}
